@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Milho",
+        "type": "Cereal",
+        "characteristics": {
+            "growthTime": "90-120 dias",
+            "yield": "8-12 toneladas por hectare",
+            "climate": "Temperado a tropical"
+        }
+    },
+    {
+        "name": "Soja",
+        "type": "Leguminosa",
+        "characteristics": {
+            "growthTime": "90-150 dias",
+            "yield": "2-4 toneladas por hectare",
+            "climate": "Tropical e subtropical"
+        }
+    },
+    {
+        "name": "Trigo",
+        "type": "Cereal",
+        "characteristics": {
+            "growthTime": "120-150 dias",
+            "yield": "3-6 toneladas por hectare",
+            "climate": "Temperado"
+        }
+    },
+    {
+        "name": "Arroz",
+        "type": "Cereal",
+        "characteristics": {
+            "growthTime": "120-180 dias",
+            "yield": "4-10 toneladas por hectare",
+            "climate": "Tropical e subtropical"
+        }
+    },
+    {
+        "name": "Café",
+        "type": "Planta perene",
+        "characteristics": {
+            "growthTime": "3-4 anos até a primeira colheita",
+            "yield": "0.5-5 toneladas por hectare",
+            "climate": "Tropical"
+        }
+    }
+]
